@@ -15,7 +15,9 @@ which can also be accessed by just entering no arguments after the program.
 ``make``
 ``java Project``
 
-**Which prints out:  ** 
+**Which prints out:** 
+***
+```
 Please use one of the following commands:  
 CreateItem [Item Code] [Item Description] [Item Price]  
 CreateItemUsingStoredProcedure [Item Code] [Item Description] [Price]  
@@ -29,3 +31,4 @@ UpdateItem [Item Code] [New Price for Item]
 DeleteItem [Item Code]  
 DeletePurchase [Item Code]  
 DeleteShipment [Item Code]  
+```
